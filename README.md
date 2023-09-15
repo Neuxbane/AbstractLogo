@@ -35,7 +35,7 @@ The Abstract Logo Generator is a Python-based project that allows you to create 
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/abstract-logo-generator.git
+   git clone https://github.com/We1337/AbstractLogo.git
    ```
 
 2. Install the required dependencies:
