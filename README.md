@@ -1,5 +1,3 @@
-Certainly, here's a README file template for an abstract logo generation project. You can customize and expand upon this template to provide detailed instructions and information about your project.
-
 ---
 
 # Abstract Logo Generator
