@@ -40,6 +40,7 @@ The Abstract Logo Generator is a Python-based project that allows you to create 
 
    ```bash
    pip install pygame
+   sudo apt install python3-tk
    ```
 
 ## Usage
